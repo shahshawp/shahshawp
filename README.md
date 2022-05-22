@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahshawp
 - 👀 I’m interested in system analyst, system information design, project management, leadership aand supervisor
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on web designing, analysis,design
+- 💞️ I’m looking to collaborate on web designing, analysis, design, prototype design (figma), information system design, SDLC model design
 - 📫 How to reach me 101209112@students.swinburne.edu.my
 
 <!---
